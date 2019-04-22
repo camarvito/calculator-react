@@ -12,6 +12,7 @@
     outline: none;
 }
 
+/* Quando clicarem no botão */
 .button:active {
     background-color: #ccc;
 }
